@@ -15,6 +15,6 @@ In order to run it, make sure you have [nodejs](https://nodejs.org/) installed a
 3. Open the terminal and `node ./main.js`
 4. See the output folder for the generated markdown files
 
-For more please see its accompanying article: [How I Use Obsidian to Stream Videos for Incremental Video](https://www.masterhowtolearn.com/2022-12-29-how-i-use-obsidian-to-stream-videos-for-incremental-video/).
+For more please see its accompanying article: [How I Use Stream Videos for Incremental Video in Obsidian](https://www.masterhowtolearn.com/2022-12-29-how-i-stream-videos-for-incremental-video-in-obsidian/).
 
 Happy learning!
